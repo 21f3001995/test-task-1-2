@@ -1,7 +1,7 @@
 # test-task-1-2
 
 ## Brief
-Generate a simple HTML page that displays the sum of sales in #total-sales.
+Update the page to show a table #product-sales with all products and their sales.
 
 ## Checks
 - Repo has MIT license
